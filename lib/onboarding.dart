@@ -20,7 +20,7 @@ class OnboardingScreen extends StatelessWidget {
                 height: 50,
               ),
               Text(
-                'Kapan aja dan hehe',
+                'Kapan aja dan hehe develop',
                 style: TextStyle(fontSize: 14, color: fntGrey),
               ),
               Text(
